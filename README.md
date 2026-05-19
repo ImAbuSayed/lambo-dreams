@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lambo-dreams/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Lambo Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lambo-dreams/) |
+| **Get License** | [Get a Licensing Quote for Lambo Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lambo-dreams/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0fa76758b85dd096178ed32b0744b8cedb60a5f72ef1a3fbeec41950932d6251` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
